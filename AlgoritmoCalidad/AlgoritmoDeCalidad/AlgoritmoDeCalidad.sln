@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoritmoDeCalidad", "AlgoritmoDeCalidad\AlgoritmoDeCalidad.csproj", "{CEFDB677-0332-4196-AE1B-AE4CB7956295}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEFDB677-0332-4196-AE1B-AE4CB7956295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFDB677-0332-4196-AE1B-AE4CB7956295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFDB677-0332-4196-AE1B-AE4CB7956295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFDB677-0332-4196-AE1B-AE4CB7956295}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {325ED7DE-64D9-4552-90BC-D627A2A743A0}
+	EndGlobalSection
+EndGlobal
